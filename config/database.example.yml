@@ -1,0 +1,20 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  # For details on connection pooling, see Rails configuration guide
+  # http://guides.rubyonrails.org/configuring.html#database-pooling
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+
+development:
+  <<: *default
+  database: random_episodes-api_development
+
+test:
+  <<: *default
+  database: random_episodes-api_test
+
+production:
+  <<: *default
+  database: random_episodes-api_production
+  username: random_episodes-api
+  password: <%= ENV['RANDOM_EPISODES-API_DATABASE_PASSWORD'] %>
