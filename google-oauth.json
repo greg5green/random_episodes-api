@@ -1,0 +1,15 @@
+{
+  "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjkwM2VkMTIwOTRkNjk3MGEzNDNiOWY5MzAzZjU0Nzg5MGE1NTFmZTgifQ.eyJhenAiOiI1Mzk0NzI0OTQ2MzQtYmtnc2lrNWUyNGpxODk3cDdrMDNlY2FsMXU0ZG9ydHUuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1Mzk0NzI0OTQ2MzQtYmtnc2lrNWUyNGpxODk3cDdrMDNlY2FsMXU0ZG9ydHUuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDg0OTMxMzI2ODk0NzcxMTc5NzUiLCJlbWFpbCI6ImdyZWdncmVlbkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IkE0Yl9hUlREMllfMWpZaFRaSnFJckEiLCJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJpYXQiOjE1MTIxNjUxODAsImV4cCI6MTUxMjE2ODc4MCwibmFtZSI6IkdyZWcgR3JlZW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDYuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1VaUtPNkFLYUVKNC9BQUFBQUFBQUFBSS9BQUFBQUFBQUFEay9WZ3g4cVctVHhEUS9zOTYtYy9waG90by5qcGciLCJnaXZlbl9uYW1lIjoiR3JlZyIsImZhbWlseV9uYW1lIjoiR3JlZW4iLCJsb2NhbGUiOiJlbiJ9.oX1ntkynX2l-jbkkfUUWvISTp042MeKe-js3RPsMkDi_QwFW4tKp70974JVFI16Vm44rHxtydu2BoH8QBIoHx7rWCk4h4QZn6OLlFgtvHB3hnwkPjdsQFsB4qFW1N8ulcpgxKpLdXdGOtk4SZriMoQPmQusbbJDG7XZ_srmGlGfEoRsR65u1MZZxvu0b_JBDAmzJ5jxQjgtfnnjg1CalDZo4eTmN3PqMW1BHSujtJZk0AKlot-4Ux5SGMXCxcX8ReGJy5_yZWMG72yBkjlVfYQfVgwjiei7IWZ3xA_rVQoFIHuUKqCTGPZRQm84Pl3Ej0C1GzQt3tudGU0izzoJbrw",
+  "refreshToken": "1/BdL5QS3Bid8FVQpjKlk04FJfm00ZE7M18FCUdPYR0T_TNZ23TLZEmih5G_4A8_Xo",
+  "serverAuthCode": "4/4uGUpH4hKnfkWNLFjjue3t2OVKg9E9z9RDGj94B5GvM",
+  "accessToken": "ya29.GlsVBdiy-ucR8jGc8j1XXFIkYSgNFK16KIso3XtJ4APiPd1fw1GTTkgV4qCFJb3z1Z415pMkV0cO081YH2bjUJoyRSCpDloJCrvpyPEk4knLBoCPeQRo80bOqxot",
+  "type": "success",
+  "user": {
+    "id": "108493132689477117975",
+    "name": "Greg Green",
+    "givenName": "Greg",
+    "familyName": "Green",
+    "photoUrl": "https://lh6.googleusercontent.com/-UiKO6AKaEJ4/AAAAAAAAAAI/AAAAAAAAADk/Vgx8qW-TxDQ/photo.jpg",
+    "email": "greggreen@gmail.com"
+  }
+}
